@@ -30,5 +30,4 @@ This project is a secure and minimal **User Authentication API** built using the
 
 ---
 
-## 📁 Project Structure
 
